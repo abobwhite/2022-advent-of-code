@@ -1,0 +1,11 @@
+{
+  "name": "alex-white-2022-advent-of-code",
+  "version": "0.1.0",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "day1": "node 01/index.js"
+  }
+}
